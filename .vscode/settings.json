@@ -1,0 +1,15 @@
+{
+    "latex-workshop.latex.tools" : [
+        {
+            "name" : "make",
+            "command" : "make",
+            "args": [ "full" ]
+        }
+    ],
+    "latex-workshop.latex.recipes" : [
+        {
+            "name" : "Makefile",
+            "tools": [ "make" ]
+        }
+    ]
+}
